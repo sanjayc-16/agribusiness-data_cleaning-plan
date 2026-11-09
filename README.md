@@ -199,7 +199,7 @@ This repository presents a strategy and starter implementation based on a hypoth
 ![data ](data.png)
 _Fig: RStudio Data Viewer showing test_prep, the preprocessed test set (92 rows, 16 columns). The numeric predictors are scaled and have no missing values (0% NA)._
 
-![console](console.png)_
+![console](r_studio_console.png)_
 
 _Fig: RStudio Console after running the cleaning and preprocessing pipeline, with View() used to inspect farm_raw, test, rec_prep and test_prep._
 
